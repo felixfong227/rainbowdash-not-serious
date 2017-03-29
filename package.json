@@ -1,0 +1,12 @@
+{
+  "name": "rainbowdash",
+  "version": "1.0.0",
+  "description": "I just want to take over this name from the NPM registry XD",
+  "main": "index.js",
+  "repository": "git@github.com:felixfong227/rainbowdash-not-serious.git",
+  "author": "@felixfong227 <moongod101@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "open": "^0.0.5"
+  }
+}
